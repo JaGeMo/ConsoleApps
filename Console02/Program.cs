@@ -17,6 +17,8 @@ namespace Console02
             Action<Photo> delegateProcess = pFilter.ApplyBrightness;
             delegateProcess += pFilter.ApplyColor;
             photoProcess.ProcessWithAction("C:/", delegateProcess);
+
+            Func<>
         }
     }
 }

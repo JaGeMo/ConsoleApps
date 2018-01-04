@@ -1,0 +1,11 @@
+C:\Temp\CodePRV\WebClient01\WebClient01\obj\Debug\WebClient01.csprojResolveAssemblyReference.cache
+C:\Temp\CodePRV\WebClient01\WebClient01\obj\Debug\WebClient01.csproj.CoreCompileInputs.cache
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\WebClient01.exe.config
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\WebClient01.exe
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\WebClient01.pdb
+C:\Temp\CodePRV\WebClient01\WebClient01\obj\Debug\WebClient01.exe
+C:\Temp\CodePRV\WebClient01\WebClient01\obj\Debug\WebClient01.pdb
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\System.Net.Http.Formatting.dll
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\CodePRV\WebClient01\WebClient01\bin\Debug\System.Net.Http.Formatting.xml
