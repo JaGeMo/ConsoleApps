@@ -11,9 +11,12 @@ namespace Console02
             PhotoProcess.ApplyFilter pProcess = pFilter.ApplyBrightness;
             pProcess += pFilter.ApplyColor;
 
-            var photoProcess = new PhotoProcess(); 
-
+            var photoProcess = new PhotoProcess();
             photoProcess.Process("C:/",pProcess);
+
+            Action<Photo> delegateProcess = pFilter.ApplyBrightness;
+            delegateProcess += pFilter.ApplyColor;
+            photoProcess.ProcessWithAction("C:/", delegateProcess);
         }
     }
 }

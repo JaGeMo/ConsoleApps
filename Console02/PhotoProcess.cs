@@ -12,5 +12,12 @@ namespace Console02
             filterHandler(photo);
             photo.Save();
         }
+
+        public void ProcessWithAction(string path, Action<Photo> filterHandler)
+        {
+            var photo = Photo.Load(path);
+            filterHandler(photo);
+            photo.Save();
+        }
     }
 }
