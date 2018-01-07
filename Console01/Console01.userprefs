@@ -1,17 +1,5 @@
 ﻿<Properties StartupConfiguration="{C925E19A-C128-45E9-B749-59B95B32CA2E}|Default">
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Console01" expanded="True">
-            <Node name="Console01" expanded="True">
-              <Node name="Additionals.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
