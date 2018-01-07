@@ -12,7 +12,7 @@ namespace Console03
             
             System.Console.WriteLine(tfunc1(10));
 
-            // test book list
+            // test book list the old fashioned way
             var bookList = new BookRepository().GetAllBooks();
 
             var cheapBookList = bookList.FindAll(cheapBook);
@@ -21,7 +21,14 @@ namespace Console03
             {
                 Console.WriteLine(book.Title);
             }
-        
+
+            // test book list the new way
+            var cheapBookListNew = bookList.FindAll(book => book.Price < 10);
+            foreach (var book in cheapBookListNew)
+            {
+                Console.WriteLine(book.Title);
+
+            }
         }
     
         static bool cheapBook(Book book)
