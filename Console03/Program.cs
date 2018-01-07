@@ -5,10 +5,29 @@ namespace Console03
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-
+        {   
+            // args =>  expression .. 'goes to'
             
+            Func<int,int> tfunc1 = x => x*x;
+            
+            System.Console.WriteLine(tfunc1(10));
+
+            // test book list
+            var bookList = new BookRepository().GetAllBooks();
+
+            var cheapBookList = bookList.FindAll(cheapBook);
+
+            foreach(var book in cheapBookList)
+            {
+                Console.WriteLine(book.Title);
+            }
+        
         }
+    
+        static bool cheapBook(Book book)
+        {
+            return book.Price < 10;
+        }
+    
     }
 }
