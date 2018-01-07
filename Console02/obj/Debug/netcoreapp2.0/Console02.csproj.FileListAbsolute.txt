@@ -8,3 +8,13 @@
 /Users/janm/Code/ConsoleApps/Console02/bin/Debug/netcoreapp2.0/Console02.pdb
 /Users/janm/Code/ConsoleApps/Console02/obj/Debug/netcoreapp2.0/Console02.dll
 /Users/janm/Code/ConsoleApps/Console02/obj/Debug/netcoreapp2.0/Console02.pdb
+c:\Temp\CodePRV\ConsoleApps\Console02\obj\Debug\netcoreapp2.0\Console02.csproj.CoreCompileInputs.cache
+c:\Temp\CodePRV\ConsoleApps\Console02\obj\Debug\netcoreapp2.0\Console02.AssemblyInfoInputs.cache
+c:\Temp\CodePRV\ConsoleApps\Console02\obj\Debug\netcoreapp2.0\Console02.AssemblyInfo.cs
+c:\Temp\CodePRV\ConsoleApps\Console02\bin\Debug\netcoreapp2.0\Console02.deps.json
+c:\Temp\CodePRV\ConsoleApps\Console02\bin\Debug\netcoreapp2.0\Console02.runtimeconfig.json
+c:\Temp\CodePRV\ConsoleApps\Console02\bin\Debug\netcoreapp2.0\Console02.runtimeconfig.dev.json
+c:\Temp\CodePRV\ConsoleApps\Console02\bin\Debug\netcoreapp2.0\Console02.dll
+c:\Temp\CodePRV\ConsoleApps\Console02\bin\Debug\netcoreapp2.0\Console02.pdb
+c:\Temp\CodePRV\ConsoleApps\Console02\obj\Debug\netcoreapp2.0\Console02.dll
+c:\Temp\CodePRV\ConsoleApps\Console02\obj\Debug\netcoreapp2.0\Console02.pdb

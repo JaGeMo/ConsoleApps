@@ -9,3 +9,14 @@
 /Users/janm/Code/ConsoleApps/Console01/obj/Debug/netcoreapp2.0/Console01.AssemblyInfo.cs
 /Users/janm/Code/ConsoleApps/Console01/obj/Debug/netcoreapp2.0/Console01.dll
 /Users/janm/Code/ConsoleApps/Console01/obj/Debug/netcoreapp2.0/Console01.pdb
+c:\Temp\CodePRV\ConsoleApps\Console01\bin\Debug\netcoreapp2.0\Console01.deps.json
+c:\Temp\CodePRV\ConsoleApps\Console01\bin\Debug\netcoreapp2.0\Console01.runtimeconfig.json
+c:\Temp\CodePRV\ConsoleApps\Console01\bin\Debug\netcoreapp2.0\Console01.runtimeconfig.dev.json
+c:\Temp\CodePRV\ConsoleApps\Console01\bin\Debug\netcoreapp2.0\Console01.dll
+c:\Temp\CodePRV\ConsoleApps\Console01\bin\Debug\netcoreapp2.0\Console01.pdb
+c:\Temp\CodePRV\ConsoleApps\Console01\obj\Debug\netcoreapp2.0\Console01.csprojResolveAssemblyReference.cache
+c:\Temp\CodePRV\ConsoleApps\Console01\obj\Debug\netcoreapp2.0\Console01.csproj.CoreCompileInputs.cache
+c:\Temp\CodePRV\ConsoleApps\Console01\obj\Debug\netcoreapp2.0\Console01.AssemblyInfoInputs.cache
+c:\Temp\CodePRV\ConsoleApps\Console01\obj\Debug\netcoreapp2.0\Console01.AssemblyInfo.cs
+c:\Temp\CodePRV\ConsoleApps\Console01\obj\Debug\netcoreapp2.0\Console01.dll
+c:\Temp\CodePRV\ConsoleApps\Console01\obj\Debug\netcoreapp2.0\Console01.pdb

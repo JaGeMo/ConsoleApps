@@ -20,6 +20,5 @@ namespace Console02
             filterHandler(photo);
             photo.Save();
         }
-
     }
 }
