@@ -1,0 +1,10 @@
+/Users/janm/Code/ConsoleApps/Console03/bin/Debug/netcoreapp2.0/Console03.deps.json
+/Users/janm/Code/ConsoleApps/Console03/bin/Debug/netcoreapp2.0/Console03.runtimeconfig.json
+/Users/janm/Code/ConsoleApps/Console03/bin/Debug/netcoreapp2.0/Console03.runtimeconfig.dev.json
+/Users/janm/Code/ConsoleApps/Console03/bin/Debug/netcoreapp2.0/Console03.dll
+/Users/janm/Code/ConsoleApps/Console03/bin/Debug/netcoreapp2.0/Console03.pdb
+/Users/janm/Code/ConsoleApps/Console03/obj/Debug/netcoreapp2.0/Console03.csproj.CoreCompileInputs.cache
+/Users/janm/Code/ConsoleApps/Console03/obj/Debug/netcoreapp2.0/Console03.AssemblyInfoInputs.cache
+/Users/janm/Code/ConsoleApps/Console03/obj/Debug/netcoreapp2.0/Console03.AssemblyInfo.cs
+/Users/janm/Code/ConsoleApps/Console03/obj/Debug/netcoreapp2.0/Console03.dll
+/Users/janm/Code/ConsoleApps/Console03/obj/Debug/netcoreapp2.0/Console03.pdb

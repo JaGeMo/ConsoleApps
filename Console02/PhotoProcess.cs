@@ -13,6 +13,7 @@ namespace Console02
             photo.Save();
         }
 
+        // second approach with Action<T>
         public void ProcessWithAction(string path, Action<Photo> filterHandler)
         {
             var photo = Photo.Load(path);

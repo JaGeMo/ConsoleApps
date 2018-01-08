@@ -8,17 +8,19 @@ namespace Console02
         {
             PhotoFilter pFilter = new PhotoFilter();
 
+            // first approach
             PhotoProcess.ApplyFilter pProcess = pFilter.ApplyBrightness;
             pProcess += pFilter.ApplyColor;
 
-            var photoProcess = new PhotoProcess();
+            var photoProcess = new PhotoProcess(); 
             photoProcess.Process("C:/",pProcess);
 
-            Action<Photo> delegateProcess = pFilter.ApplyBrightness;
-            delegateProcess += pFilter.ApplyColor;
-            photoProcess.ProcessWithAction("C:/", delegateProcess);
+            // second approach
+            Action<Photo> photoProcessMethodDelegat;
+            photoProcessMethodDelegat = pFilter.ApplyBrightness;
+            photoProcessMethodDelegat += pFilter.ApplyColor;
 
-            Func<>
+            photoProcess.ProcessWithAction("C:/",photoProcessMethodDelegat);
         }
     }
 }

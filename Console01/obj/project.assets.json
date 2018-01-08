@@ -670,12 +670,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "c:\\Temp\\CodePRV\\ConsoleApps\\Console01\\Console01.csproj",
+      "projectUniqueName": "C:\\Temp\\CodePRV\\ConsoleApps\\Console01\\Console01.csproj",
       "projectName": "Console01",
-      "projectPath": "c:\\Temp\\CodePRV\\ConsoleApps\\Console01\\Console01.csproj",
+      "projectPath": "C:\\Temp\\CodePRV\\ConsoleApps\\Console01\\Console01.csproj",
       "packagesPath": "C:\\Users\\MoennigJ\\.nuget\\packages\\",
-      "outputPath": "c:\\Temp\\CodePRV\\ConsoleApps\\Console01\\obj\\",
+      "outputPath": "C:\\Temp\\CodePRV\\ConsoleApps\\Console01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

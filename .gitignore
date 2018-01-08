@@ -4,4 +4,7 @@
 *.dll
 *.log
 *.exe
-
+*.targets
+*.cache
+*.props
+*.lock
