@@ -1,0 +1,11 @@
+/Users/janm/Code/ConsoleApps/Console04/Console04/bin/Debug/netcoreapp2.0/Console04.deps.json
+/Users/janm/Code/ConsoleApps/Console04/Console04/bin/Debug/netcoreapp2.0/Console04.runtimeconfig.json
+/Users/janm/Code/ConsoleApps/Console04/Console04/bin/Debug/netcoreapp2.0/Console04.runtimeconfig.dev.json
+/Users/janm/Code/ConsoleApps/Console04/Console04/bin/Debug/netcoreapp2.0/Console04.dll
+/Users/janm/Code/ConsoleApps/Console04/Console04/bin/Debug/netcoreapp2.0/Console04.pdb
+/Users/janm/Code/ConsoleApps/Console04/Console04/obj/Debug/netcoreapp2.0/Console04.csprojResolveAssemblyReference.cache
+/Users/janm/Code/ConsoleApps/Console04/Console04/obj/Debug/netcoreapp2.0/Console04.csproj.CoreCompileInputs.cache
+/Users/janm/Code/ConsoleApps/Console04/Console04/obj/Debug/netcoreapp2.0/Console04.AssemblyInfoInputs.cache
+/Users/janm/Code/ConsoleApps/Console04/Console04/obj/Debug/netcoreapp2.0/Console04.AssemblyInfo.cs
+/Users/janm/Code/ConsoleApps/Console04/Console04/obj/Debug/netcoreapp2.0/Console04.dll
+/Users/janm/Code/ConsoleApps/Console04/Console04/obj/Debug/netcoreapp2.0/Console04.pdb
